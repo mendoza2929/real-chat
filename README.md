@@ -1,4 +1,6 @@
 # Streamline Assesment Final
 
-# Requirements
+# Requirements 
+- Nodejs
+- Mongodb
 
